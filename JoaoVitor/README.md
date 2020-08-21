@@ -1,11 +1,3 @@
-# ProgISD20202
-Pasta da disciplina de Programação
+Projeto de estado da arte dos equipamentos auxiliares de marcha Lokomart e ZeroG.
 
-Nesta pasta os alunos da disciplina colocarão as suas atividades associadas à disciplina.
-
-Fluxo de Trabalho:
-Fork
-clone/pull/download
-alterar o conteúdo
-subir pra pasta repositório local
-pull request
+Os arquivos contém descrição em alto nível do sistema.
